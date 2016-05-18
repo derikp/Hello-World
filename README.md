@@ -1,5 +1,7 @@
 # Hello-World
-This repository is stuff I care about: 
-This includes Learning Rasberry Pi Code
-Perhaps building collobartive applications
-Using data to help others
+This repository is stuff I care about which includes: 
+learning Rasberry Pi code;
+helping my kids build collobartive applications; and
+using data to help others.
+
+Hope to find useful things here on GitHub.
